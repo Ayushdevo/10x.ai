@@ -1,4 +1,4 @@
-# Free Tooling Guide For Interns
+# Free Tooling Guide For Intern
 
 Status: recommended defaults, not restrictions.
 
